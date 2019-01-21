@@ -1,5 +1,18 @@
 "The Arkenstone" by Milo Kim and Liz Henry
 
+
+Section 1 - Testing - Not for release 
+
+When play begins (this is the run property checks at the start of play rule):
+	repeat with item running through things:
+		if description of the item is "":
+			say "[item] has no description." 
+
+
+Section 2 - Game
+
+Chapter 0 - Prologue
+
 A thing can be examined or unexamined. A thing is usually unexamined. After examining something: now the noun is examined. 
 
 When play begins: 
@@ -50,5 +63,71 @@ The mourners are people in the mausoleum. The description of the mourners is "A 
 A scroll is a thing in the Mausoleum. The description of the scroll is "[if unexamined] A rolled-up scroll.[end if][if examined]An unrolled scroll with a mysterious inscription.[end if] "
 
 Test me with "take lantern/ d/ n/ n"
+
+
+Smaug's Hoard is west of Hall of Gold. "Dragon-hoarded gems gleam from the walls. Gold gleams from the eastern end of this great hall as if from a distant sunrise. The north wall is formed from block faulted granite, enormous slabs fallen over each other."
+
+Secret Tunnel is up from Smaug's Hoard. "A secret tunnel ends in a narrow ledge overlooking an enormous hall. The slabs of granite jumbled below form a rough path down into the hall."
+
+[this is just for testing]
+Secret Portal is a door in Secret Tunnel. "A temporary portal opens up to take you to Chapter 1." Secret Portal is southwest from Secret Tunnel and northeast of The Deck.
+
+
+Chapter 1 - Building the Starstrider
+
+
+A dragon is a kind of person. Wings are a kind of thing. Wings are a part of every dragon. A tail is a kind of thing. A tail is a part of every dragon. Scales are a kind of thing. Scales are a part of every dragon. 
+
+[Instead of the player being a person, the player is a dragon. ]
+[this doesn't quite work yet]
+
+
+[Ship's directions]
+
+The starboard is a direction. The starboard has opposite port. Understand "s" as starboard when the location is nautical.
+
+The port is a direction. The port has opposite starboard. Understand "p" as port when the location is nautical.
+
+The fore is a direction. The fore has opposite aft. Understand "f" as fore when the location is nautical.
+
+The aft is a direction. The aft has opposite fore. Understand "a" as aft when the location is nautical.
+
+Does the player mean going a nautical direction when the location is nautical: it is very likely.
+
+Index map with fore mapped as north. Index map with aft mapped as south. Index map with port mapped as west. Index map with starboard mapped as east.
+
+The verb to be abaft of means the mapping aft relation.
+
+A room can be nautical or earthbound. A room is usually not nautical. A direction can be nautical or earthbound. A direction is usually not nautical. Starboard, port, fore, aft, up, down, the inside and the outside are nautical.
+Before going a nautical direction when the location is not nautical, say "Nautical directions can only be used on board ship."
+
+Before going an earthbound direction when the location is nautical, say "Compass directions make no sense on board ship, but you can use [list of nautical directions] instead." instead.
+
+[The rooms of the ship]
+
+The Starstrider is a region. The Quarterdeck, the Main Deck, the Bridge, the Boat Deck, the Cabin, the Mess Hall, the Galley, the Hold, the Bilge, the Hatch, the Head, the Baths, the Foc'sle, the Engine Room, and the Bows are in The Starstrider. 
+The Main Deck, The Quarterdeck, the Bridge, the Boat Deck, the Cabin, the Mess Hall, the Galley, the Hold, the Bilge, the Hatch, the Head, the Baths, the Foc'sle, the Engine Room, and the Bows are nautical rooms.
+
+The Quarterdeck is a nautical room. "This airy deck runs across the stern of the ship. Along the taffrails, there are broad benches and platforms, excellent for doing scientific studies or just enjoying the breeze." 
+A telescope is a device. In the quarterdeck is a telescope.
+A potted mallorn tree is an object. In the quarterdeck is a potted mallorn tree.
+
+The Boat Deck is down from the Quarterdeck. "This narrow deck down a little gangway from the Quarterdeck is a good place to tie up small boats."
+
+The Bridge is up from the Quarterdeck. "The helm and a zillion mysterious instruments are on a dashboard along the front of the sheltered, glass windowed bridge. Aft and down, you can see the Quarterdeck."
+
+The Main Deck is fore of the Quarterdeck. "The main deck of this elegant little ship is carpeted in soft, springy grass, with the occasional eleanor-flower shining up like a little star from underfoot. Sturdy wooden chairs and benches, instrument panels, and a large globe line the walls of this sheltered deck."
+The Galley is starboard of the Main Deck. "A trim, compact galley has everything you'd need to cook aboard ship."
+The Mess Hall is port of the Main Deck. "A long table and benches make this a companionable place to be, whether eating or just hanging out with the rest of the crew."
+The Cabin is down from the Main Deck. "This large cabin in the stern has a round built-in bed, or you'd call it a bed if it weren't so huge. It goes across the entire ship. It has books stuffed in every corner and shelf. Windows in the stern look out over a tiny boat deck."
+The Hatch is fore of the Main Deck. "The floor of this little hallway is ingeniously designed with a built-in hatchway. There are doors to port and starboard."
+The Hold is down from the Hatch. "The ship's stores are down here. It's dark and smells a little funky. Below, you hear water sloshing."
+The Bilge is down from The Hold. "Now you know where the funky smell comes from. It's very dark and a bit dirty down here. It's also wet."
+The Head is starboard of the Hatch. "A tiny but convienient toilet and sink are crammed into this room."
+The Baths are port of the Hatch. "You don't know how they do it, but they fit a whole enormous claw-foot tub and two shower heads into this room. O water hot! Tra la!"
+The Foc'sle is fore of the Hatch. "The ship narrows here to a point in this interesting room to forward. There are port bunks and starboard bunks of various sizes for a small crew. Books and fascinating instruments line narrow shelves high along the curving walls."
+The Engine Room is down from the Foc'sle. "It's amazing how quiet these weird, complicated machines are. A bunch of stuff here looks like puzzles waiting to be solved."
+The Bows is up from the Foc'sle. "You come out through the sky-hatch onto the Bows, the very front of the ship facing into the great unknown. A little flag ripples from the bowsprit."
+
 
 
