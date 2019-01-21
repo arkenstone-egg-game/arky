@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 
-<Skein rootNode="node-1079">
+<Skein rootNode="node-3035">
     <generator>Inform Mac Client (Inform version 1.65/6.33/6M62)</generator>
-    <item nodeId="node-1079">
+    <item nodeId="node-3035">
         <command xml:space="preserve">Arkenstone Egg Prologue</command>
         <result xml:space="preserve">
 
@@ -20,23 +20,23 @@ You can see a lantern here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1131"></child>
-            <child nodeId="node-1126"></child>
-            <child nodeId="node-1125"></child>
-            <child nodeId="node-1115"></child>
-            <child nodeId="node-1110"></child>
-            <child nodeId="node-1081"></child>
-            <child nodeId="node-1080"></child>
+        <children><child nodeId="node-3092"></child>
+            <child nodeId="node-3087"></child>
+            <child nodeId="node-3086"></child>
+            <child nodeId="node-3076"></child>
+            <child nodeId="node-3071"></child>
+            <child nodeId="node-3037"></child>
+            <child nodeId="node-3036"></child>
         </children>
     </item>
-    <item nodeId="node-1080">
+    <item nodeId="node-3036">
         <command xml:space="preserve">x lantern</command>
         <result xml:space="preserve">The lantern is covered in dust, like everything else in the room, but seems oddly new. Perhaps a wayward adventurer dropped it here in recent years, and forgot to pick it up. The glass is broken, but it is still usable.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1081">
+    <item nodeId="node-3037">
         <command xml:space="preserve">take lantern</command>
         <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
 
@@ -45,51 +45,51 @@ This enormous chamber is filled with activity as dozens of dwarves work to resto
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1090"></child>
-            <child nodeId="node-1089"></child>
-            <child nodeId="node-1082"></child>
+        <children><child nodeId="node-3046"></child>
+            <child nodeId="node-3045"></child>
+            <child nodeId="node-3038"></child>
         </children>
     </item>
-    <item nodeId="node-1082">
+    <item nodeId="node-3038">
         <command xml:space="preserve">take lantern</command>
         <result xml:space="preserve">You can't see any such thing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1083"></child>
+        <children><child nodeId="node-3039"></child>
         </children>
     </item>
-    <item nodeId="node-1083">
+    <item nodeId="node-3039">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Great Hall of Thror
 This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and plished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1084"></child>
+        <children><child nodeId="node-3040"></child>
         </children>
     </item>
-    <item nodeId="node-1084">
+    <item nodeId="node-3040">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">
 Winding Stairs
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1085"></child>
+        <children><child nodeId="node-3041"></child>
         </children>
     </item>
-    <item nodeId="node-1085">
+    <item nodeId="node-3041">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">
 Long Hallway
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1086"></child>
+        <children><child nodeId="node-3042"></child>
         </children>
     </item>
-    <item nodeId="node-1086">
+    <item nodeId="node-3042">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Thorin's Tomb
@@ -99,26 +99,26 @@ It was a gleaming stone mausoleum carved with silver-flecked granite statues of 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1087"></child>
+        <children><child nodeId="node-3043"></child>
         </children>
     </item>
-    <item nodeId="node-1087">
+    <item nodeId="node-3043">
         <command xml:space="preserve">in</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1088"></child>
+        <children><child nodeId="node-3044"></child>
         </children>
     </item>
-    <item nodeId="node-1088">
+    <item nodeId="node-3044">
         <command xml:space="preserve">exits</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1089">
+    <item nodeId="node-3045">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Great Hall of Thror
 This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and plished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain.
@@ -128,7 +128,7 @@ You can see a lantern here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1090">
+    <item nodeId="node-3046">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">
 Winding Stairs
@@ -136,40 +136,40 @@ The stairs are very steep and wind down around a central pillar for what seems l
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1104"></child>
-            <child nodeId="node-1156"></child>
-            <child nodeId="node-1091"></child>
+        <children><child nodeId="node-3065"></child>
+            <child nodeId="node-3060"></child>
+            <child nodeId="node-3047"></child>
         </children>
     </item>
-    <item nodeId="node-1091">
+    <item nodeId="node-3047">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1092"></child>
+        <children><child nodeId="node-3048"></child>
         </children>
     </item>
-    <item nodeId="node-1092">
+    <item nodeId="node-3048">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">
 Long Hallway
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1093"></child>
+        <children><child nodeId="node-3049"></child>
         </children>
     </item>
-    <item nodeId="node-1093">
+    <item nodeId="node-3049">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1094"></child>
+        <children><child nodeId="node-3050"></child>
         </children>
     </item>
-    <item nodeId="node-1094">
+    <item nodeId="node-3050">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Thorin's Tomb
@@ -177,75 +177,75 @@ Deep in the heart of the Lonely Mountain there was a tomb. Not a nasty, dirty we
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1095"></child>
+        <children><child nodeId="node-3051"></child>
         </children>
     </item>
-    <item nodeId="node-1095">
+    <item nodeId="node-3051">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">
 Long Hallway
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1096"></child>
+        <children><child nodeId="node-3052"></child>
         </children>
     </item>
-    <item nodeId="node-1096">
+    <item nodeId="node-3052">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1097"></child>
+        <children><child nodeId="node-3053"></child>
         </children>
     </item>
-    <item nodeId="node-1097">
+    <item nodeId="node-3053">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1098"></child>
+        <children><child nodeId="node-3054"></child>
         </children>
     </item>
-    <item nodeId="node-1098">
+    <item nodeId="node-3054">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1099"></child>
+        <children><child nodeId="node-3055"></child>
         </children>
     </item>
-    <item nodeId="node-1099">
+    <item nodeId="node-3055">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1100"></child>
+        <children><child nodeId="node-3056"></child>
         </children>
     </item>
-    <item nodeId="node-1100">
+    <item nodeId="node-3056">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1101"></child>
+        <children><child nodeId="node-3057"></child>
         </children>
     </item>
-    <item nodeId="node-1101">
+    <item nodeId="node-3057">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Winding Stairs
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1102"></child>
+        <children><child nodeId="node-3058"></child>
         </children>
     </item>
-    <item nodeId="node-1102">
+    <item nodeId="node-3058">
         <command xml:space="preserve">up</command>
         <result xml:space="preserve">
 Great Hall of Thror
@@ -253,17 +253,17 @@ This enormous chamber is filled with activity as dozens of dwarves work to resto
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1103"></child>
+        <children><child nodeId="node-3059"></child>
         </children>
     </item>
-    <item nodeId="node-1103">
+    <item nodeId="node-3059">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1156">
+    <item nodeId="node-3060">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Long Hallway
@@ -271,10 +271,10 @@ This hallway is brightly lit, causing the gilded carvings on either side to glim
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1157"></child>
+        <children><child nodeId="node-3061"></child>
         </children>
     </item>
-    <item nodeId="node-1157">
+    <item nodeId="node-3061">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Thorin's Tomb
@@ -282,11 +282,11 @@ Crystals festoon the walls of this wide, natural cave, and a small river runs th
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1163"></child>
-            <child nodeId="node-1158"></child>
+        <children><child nodeId="node-3063"></child>
+            <child nodeId="node-3062"></child>
         </children>
     </item>
-    <item nodeId="node-1158">
+    <item nodeId="node-3062">
         <command xml:space="preserve">in</command>
         <result xml:space="preserve">
 Mausoleum
@@ -299,16 +299,16 @@ You can also see a scroll here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1163">
+    <item nodeId="node-3063">
         <command xml:space="preserve">i</command>
         <result xml:space="preserve">You are carrying nothing.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1164"></child>
+        <children><child nodeId="node-3064"></child>
         </children>
     </item>
-    <item nodeId="node-1164">
+    <item nodeId="node-3064">
         <command xml:space="preserve">in</command>
         <result xml:space="preserve">
 Mausoleum
@@ -319,17 +319,17 @@ You can see a mourners and a scroll here.
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1104">
+    <item nodeId="node-3065">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">
 Long Hallway
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1105"></child>
+        <children><child nodeId="node-3066"></child>
         </children>
     </item>
-    <item nodeId="node-1105">
+    <item nodeId="node-3066">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Thorin's Tomb
@@ -339,80 +339,80 @@ It was a gleaming stone mausoleum carved with silver-flecked granite statues of 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1106"></child>
+        <children><child nodeId="node-3067"></child>
         </children>
     </item>
-    <item nodeId="node-1106">
+    <item nodeId="node-3067">
         <command xml:space="preserve">in</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1107"></child>
+        <children><child nodeId="node-3068"></child>
         </children>
     </item>
-    <item nodeId="node-1107">
+    <item nodeId="node-3068">
         <command xml:space="preserve">enter</command>
         <result xml:space="preserve">You must supply a noun.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1108"></child>
+        <children><child nodeId="node-3069"></child>
         </children>
     </item>
-    <item nodeId="node-1108">
+    <item nodeId="node-3069">
         <command xml:space="preserve">enter Mausoleum</command>
         <result xml:space="preserve">That's not something you can enter.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1109"></child>
+        <children><child nodeId="node-3070"></child>
         </children>
     </item>
-    <item nodeId="node-1109">
+    <item nodeId="node-3070">
         <command xml:space="preserve">inside</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1110">
+    <item nodeId="node-3071">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1111"></child>
+        <children><child nodeId="node-3072"></child>
         </children>
     </item>
-    <item nodeId="node-1111">
+    <item nodeId="node-3072">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1112"></child>
+        <children><child nodeId="node-3073"></child>
         </children>
     </item>
-    <item nodeId="node-1112">
+    <item nodeId="node-3073">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1113"></child>
+        <children><child nodeId="node-3074"></child>
         </children>
     </item>
-    <item nodeId="node-1113">
+    <item nodeId="node-3074">
         <command xml:space="preserve">w</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1114"></child>
+        <children><child nodeId="node-3075"></child>
         </children>
     </item>
-    <item nodeId="node-1114">
+    <item nodeId="node-3075">
         <command xml:space="preserve">take lantern</command>
         <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
 
@@ -422,54 +422,54 @@ This enormous chamber is filled with activity as dozens of dwarves work to resto
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1115">
+    <item nodeId="node-3076">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1121"></child>
-            <child nodeId="node-1116"></child>
+        <children><child nodeId="node-3082"></child>
+            <child nodeId="node-3077"></child>
         </children>
     </item>
-    <item nodeId="node-1116">
+    <item nodeId="node-3077">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1117"></child>
+        <children><child nodeId="node-3078"></child>
         </children>
     </item>
-    <item nodeId="node-1117">
+    <item nodeId="node-3078">
         <command xml:space="preserve">e</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1118"></child>
+        <children><child nodeId="node-3079"></child>
         </children>
     </item>
-    <item nodeId="node-1118">
+    <item nodeId="node-3079">
         <command xml:space="preserve">u</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1119"></child>
+        <children><child nodeId="node-3080"></child>
         </children>
     </item>
-    <item nodeId="node-1119">
+    <item nodeId="node-3080">
         <command xml:space="preserve">examine</command>
         <result xml:space="preserve">(the lantern)
 You see nothing special about the lantern.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1120"></child>
+        <children><child nodeId="node-3081"></child>
         </children>
     </item>
-    <item nodeId="node-1120">
+    <item nodeId="node-3081">
         <command xml:space="preserve">take lantern</command>
         <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
 
@@ -479,21 +479,21 @@ This enormous chamber is filled with activity as dozens of dwarves work to resto
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1121">
+    <item nodeId="node-3082">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1122"></child>
+        <children><child nodeId="node-3083"></child>
         </children>
     </item>
-    <item nodeId="node-1122">
+    <item nodeId="node-3083">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1123"></child>
+        <children><child nodeId="node-3084"></child>
         </children>
     </item>
-    <item nodeId="node-1123">
+    <item nodeId="node-3084">
         <command xml:space="preserve">take lantern</command>
         <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
 
@@ -502,15 +502,15 @@ This enormous chamber is filled with activity as dozens of dwarves work to resto
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1124"></child>
+        <children><child nodeId="node-3085"></child>
         </children>
     </item>
-    <item nodeId="node-1124">
+    <item nodeId="node-3085">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1125">
+    <item nodeId="node-3086">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Thorin's Tomb
 
@@ -520,17 +520,17 @@ It was a gleaming stone mausoleum carved with silver-flecked granite statues of 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1126">
+    <item nodeId="node-3087">
         <command xml:space="preserve">go down</command>
         <result xml:space="preserve">
 Winding Stairs
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1127"></child>
+        <children><child nodeId="node-3088"></child>
         </children>
     </item>
-    <item nodeId="node-1127">
+    <item nodeId="node-3088">
         <command xml:space="preserve">go up</command>
         <result xml:space="preserve">
 Great Hall of Thror
@@ -540,46 +540,46 @@ You can see a lantern here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1128"></child>
+        <children><child nodeId="node-3089"></child>
         </children>
     </item>
-    <item nodeId="node-1128">
+    <item nodeId="node-3089">
         <command xml:space="preserve">move down</command>
         <result xml:space="preserve">You must name something more substantial.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1129"></child>
+        <children><child nodeId="node-3090"></child>
         </children>
     </item>
-    <item nodeId="node-1129">
+    <item nodeId="node-3090">
         <command xml:space="preserve">travel down</command>
         <result xml:space="preserve">That's not a verb I recognise.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1130"></child>
+        <children><child nodeId="node-3091"></child>
         </children>
     </item>
-    <item nodeId="node-1130">
+    <item nodeId="node-3091">
         <command xml:space="preserve">s</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1131">
+    <item nodeId="node-3092">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1145"></child>
-            <child nodeId="node-1141"></child>
-            <child nodeId="node-1132"></child>
+        <children><child nodeId="node-3106"></child>
+            <child nodeId="node-3102"></child>
+            <child nodeId="node-3093"></child>
         </children>
     </item>
-    <item nodeId="node-1132">
+    <item nodeId="node-3093">
         <command xml:space="preserve">take lantern</command>
         <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
 
@@ -588,21 +588,21 @@ This enormous chamber is filled with activity as dozens of dwarves work to resto
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1133"></child>
+        <children><child nodeId="node-3094"></child>
         </children>
     </item>
-    <item nodeId="node-1133">
+    <item nodeId="node-3094">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">
 Winding Stairs
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1135"></child>
-            <child nodeId="node-1134"></child>
+        <children><child nodeId="node-3096"></child>
+            <child nodeId="node-3095"></child>
         </children>
     </item>
-    <item nodeId="node-1134">
+    <item nodeId="node-3095">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Great Hall of Thror
 This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and plished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain.
@@ -610,17 +610,17 @@ This enormous chamber is filled with activity as dozens of dwarves work to resto
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1135">
+    <item nodeId="node-3096">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">
 Long Hallway
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1136"></child>
+        <children><child nodeId="node-3097"></child>
         </children>
     </item>
-    <item nodeId="node-1136">
+    <item nodeId="node-3097">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Thorin's Tomb
@@ -628,10 +628,10 @@ Deep in the heart of the Lonely Mountain there was a tomb. Not a nasty, dirty we
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1137"></child>
+        <children><child nodeId="node-3098"></child>
         </children>
     </item>
-    <item nodeId="node-1137">
+    <item nodeId="node-3098">
         <command xml:space="preserve">in</command>
         <result xml:space="preserve">
 Mausoleum
@@ -641,35 +641,35 @@ You can see a scroll here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1138"></child>
+        <children><child nodeId="node-3099"></child>
         </children>
     </item>
-    <item nodeId="node-1138">
+    <item nodeId="node-3099">
         <command xml:space="preserve">x scroll</command>
         <result xml:space="preserve"> A rolled-up scroll. 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1139"></child>
+        <children><child nodeId="node-3100"></child>
         </children>
     </item>
-    <item nodeId="node-1139">
+    <item nodeId="node-3100">
         <command xml:space="preserve">x scroll</command>
         <result xml:space="preserve">An unrolled scroll with a mysterious inscription. 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1140"></child>
+        <children><child nodeId="node-3101"></child>
         </children>
     </item>
-    <item nodeId="node-1140">
+    <item nodeId="node-3101">
         <command xml:space="preserve">take scroll</command>
         <result xml:space="preserve">Taken.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1141">
+    <item nodeId="node-3102">
         <command xml:space="preserve">look</command>
         <result xml:space="preserve">Great Hall of Thror
 High above, a small opening of some sort provides a glimmer of light and a faint breeze from outside. The walls of the great chamber are out of the light's reach, though. A few overturned tables and a broken lantern are all that can be seen.
@@ -678,10 +678,10 @@ You can see a lantern here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1142"></child>
+        <children><child nodeId="node-3103"></child>
         </children>
     </item>
-    <item nodeId="node-1142">
+    <item nodeId="node-3103">
         <command xml:space="preserve">take lantern</command>
         <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
 
@@ -690,34 +690,34 @@ This enormous chamber is filled with activity as dozens of dwarves work to resto
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1143"></child>
+        <children><child nodeId="node-3104"></child>
         </children>
     </item>
-    <item nodeId="node-1143">
+    <item nodeId="node-3104">
         <command xml:space="preserve">down</command>
         <result xml:space="preserve">&gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1144"></child>
+        <children><child nodeId="node-3105"></child>
         </children>
     </item>
-    <item nodeId="node-1144">
+    <item nodeId="node-3105">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1145">
+    <item nodeId="node-3106">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve">You can't go that way.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1148"></child>
-            <child nodeId="node-1146"></child>
+        <children><child nodeId="node-3109"></child>
+            <child nodeId="node-3107"></child>
         </children>
     </item>
-    <item nodeId="node-1146">
+    <item nodeId="node-3107">
         <command xml:space="preserve">take lantern</command>
         <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
 
@@ -726,15 +726,15 @@ This enormous chamber is filled with activity as dozens of dwarves work to resto
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1147"></child>
+        <children><child nodeId="node-3108"></child>
         </children>
     </item>
-    <item nodeId="node-1147">
+    <item nodeId="node-3108">
         <command xml:space="preserve">d</command>
         <result xml:space="preserve"></result>
         <commentary xml:space="preserve"></commentary>
     </item>
-    <item nodeId="node-1148">
+    <item nodeId="node-3109">
         <command xml:space="preserve">n</command>
         <result xml:space="preserve">
 Thorin's Tomb
@@ -742,10 +742,10 @@ Deep in the heart of the Lonely Mountain there was a tomb. Not a nasty, dirty we
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1149"></child>
+        <children><child nodeId="node-3110"></child>
         </children>
     </item>
-    <item nodeId="node-1149">
+    <item nodeId="node-3110">
         <command xml:space="preserve">in</command>
         <result xml:space="preserve">
 Mausoleum
@@ -755,19 +755,19 @@ You can see a scroll here.
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1150"></child>
+        <children><child nodeId="node-3111"></child>
         </children>
     </item>
-    <item nodeId="node-1150">
+    <item nodeId="node-3111">
         <command xml:space="preserve">x scroll</command>
         <result xml:space="preserve"> A rolled-up scroll. 
 
 &gt;</result>
         <commentary xml:space="preserve"></commentary>
-        <children><child nodeId="node-1151"></child>
+        <children><child nodeId="node-3112"></child>
         </children>
     </item>
-    <item nodeId="node-1151">
+    <item nodeId="node-3112">
         <command xml:space="preserve">x scroll</command>
         <result xml:space="preserve">An unrolled scroll with a mysterious inscription. 
 

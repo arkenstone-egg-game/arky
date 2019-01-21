@@ -3,9 +3,9 @@
 <plist version="1.0"><dict>
     <key>Application Version</key><string>6M62</string>
     <key>0</key><dict>
-        <key>Filename</key><string>/Users/milokim/Documents/Arkenstone Egg Prologue.inform/Source/story.ni</string>
+        <key>Filename</key><string>/Users/ehenry/dev/inform7/arky/Arkenstone Egg Prologue.inform/Source/story.ni</string>
         <key>Line</key><integer>1</integer>
-        <key>Title</key><string>"The Arkenstone" by Milo Kim</string>
+        <key>Title</key><string>"The Arkenstone" by Milo Kim and Liz Henry</string>
         <key>Level</key><integer>0</integer>
         <key>Indentation</key><integer>0</integer>
     </dict>

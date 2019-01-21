@@ -1,4 +1,4 @@
-"The Arkenstone" by Milo Kim
+"The Arkenstone" by Milo Kim and Liz Henry
 
 A thing can be examined or unexamined. A thing is usually unexamined. After examining something: now the noun is examined. 
 
