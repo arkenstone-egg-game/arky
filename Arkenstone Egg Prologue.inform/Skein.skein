@@ -1,0 +1,777 @@
+<?xml version="1.0"?>
+
+<Skein rootNode="node-1079">
+    <generator>Inform Mac Client (Inform version 1.65/6.33/6M62)</generator>
+    <item nodeId="node-1079">
+        <command xml:space="preserve">Arkenstone Egg Prologue</command>
+        <result xml:space="preserve">
+
+
+Deep in the heart of the Lonely Mountain there was a tomb. Not a nasty, dirty wet tomb, filled with ooze and the ends of worms, nor yet a sterile, gloomy tomb with nothing to look at or admire; it was a dwarven tomb, and that means magnificence.
+
+The Arkenstone
+An Interactive Fiction by Milo Kim
+Release 1 / Serial number 190114 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD
+
+Great Chamber of Thror
+High above, a small opening of some sort provides a glimmer of light and a faint breeze from outside. The walls of the great chamber are out of the light's reach, though. A few overturned tables and a broken lantern are all that can be seen.
+
+You can see a lantern here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1131"></child>
+            <child nodeId="node-1126"></child>
+            <child nodeId="node-1125"></child>
+            <child nodeId="node-1115"></child>
+            <child nodeId="node-1110"></child>
+            <child nodeId="node-1081"></child>
+            <child nodeId="node-1080"></child>
+        </children>
+    </item>
+    <item nodeId="node-1080">
+        <command xml:space="preserve">x lantern</command>
+        <result xml:space="preserve">The lantern is covered in dust, like everything else in the room, but seems oddly new. Perhaps a wayward adventurer dropped it here in recent years, and forgot to pick it up. The glass is broken, but it is still usable.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1081">
+        <command xml:space="preserve">take lantern</command>
+        <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
+
+Great Chamber of Thror
+This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and polished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain, as well as another pair of gilded doors to the south.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1090"></child>
+            <child nodeId="node-1089"></child>
+            <child nodeId="node-1082"></child>
+        </children>
+    </item>
+    <item nodeId="node-1082">
+        <command xml:space="preserve">take lantern</command>
+        <result xml:space="preserve">You can't see any such thing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1083"></child>
+        </children>
+    </item>
+    <item nodeId="node-1083">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Great Hall of Thror
+This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and plished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1084"></child>
+        </children>
+    </item>
+    <item nodeId="node-1084">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Winding Stairs
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1085"></child>
+        </children>
+    </item>
+    <item nodeId="node-1085">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Long Hallway
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1086"></child>
+        </children>
+    </item>
+    <item nodeId="node-1086">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Thorin's Tomb
+Deep in the heart of the Lonely Mountain there was a tomb. Not a nasty, dirty wet tomb, filled with ooze and the ends of worms, nor yet a sterile, gloomy tomb with nothing to look at or admire; it was a dwarven tomb, and that means magnificence.
+
+It was a gleaming stone mausoleum carved with silver-flecked granite statues of noble dwarves, surrounded by sturdy yet elegant benches, playful fountains and pools catching the light from gem-like windows high overhead; all emanating a sense of peace and welcome.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1087"></child>
+        </children>
+    </item>
+    <item nodeId="node-1087">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1088"></child>
+        </children>
+    </item>
+    <item nodeId="node-1088">
+        <command xml:space="preserve">exits</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1089">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Great Hall of Thror
+This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and plished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain.
+
+You can see a lantern here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1090">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Winding Stairs
+The stairs are very steep and wind down around a central pillar for what seems like an eternity. Stairwells and doorways often appear on the landings, but they are all blocked by old rubble or barricades. Eventually the final stairwell appears. Great dwaven statues loom over several doorways, all of them open, but only the one to the north has been unblocked.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1104"></child>
+            <child nodeId="node-1156"></child>
+            <child nodeId="node-1091"></child>
+        </children>
+    </item>
+    <item nodeId="node-1091">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1092"></child>
+        </children>
+    </item>
+    <item nodeId="node-1092">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Long Hallway
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1093"></child>
+        </children>
+    </item>
+    <item nodeId="node-1093">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1094"></child>
+        </children>
+    </item>
+    <item nodeId="node-1094">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Thorin's Tomb
+Deep in the heart of the Lonely Mountain there was a tomb. Not a nasty, dirty wet tomb, filled with ooze and the ends of worms, nor yet a sterile, gloomy tomb with nothing to look at or admire; it was a dwarven tomb, and that means magnificence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1095"></child>
+        </children>
+    </item>
+    <item nodeId="node-1095">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">
+Long Hallway
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1096"></child>
+        </children>
+    </item>
+    <item nodeId="node-1096">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1097"></child>
+        </children>
+    </item>
+    <item nodeId="node-1097">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1098"></child>
+        </children>
+    </item>
+    <item nodeId="node-1098">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1099"></child>
+        </children>
+    </item>
+    <item nodeId="node-1099">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1100"></child>
+        </children>
+    </item>
+    <item nodeId="node-1100">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1101"></child>
+        </children>
+    </item>
+    <item nodeId="node-1101">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Winding Stairs
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1102"></child>
+        </children>
+    </item>
+    <item nodeId="node-1102">
+        <command xml:space="preserve">up</command>
+        <result xml:space="preserve">
+Great Hall of Thror
+This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and polished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1103"></child>
+        </children>
+    </item>
+    <item nodeId="node-1103">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1156">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Long Hallway
+This hallway is brightly lit, causing the gilded carvings on either side to glimmer magnificently. They are seperated into 4 different scenes, including one on the south end that seem unfinished. The south end goes through a doorway and turns into stairs leading up. The north end opens onto a wide cavern.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1157"></child>
+        </children>
+    </item>
+    <item nodeId="node-1157">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Thorin's Tomb
+Crystals festoon the walls of this wide, natural cave, and a small river runs through the middle. However, what truly dominates the cave is the magnificent dwarven mausoleum next to the river.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1163"></child>
+            <child nodeId="node-1158"></child>
+        </children>
+    </item>
+    <item nodeId="node-1158">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">
+Mausoleum
+A gleaming stone mausoleum carved with silver-flecked granite statues of noble dwarves, surrounded by sturdy yet elegant benches, playful fountains and pools catching the light from gem-like windows high overhead; all emanating a sense of peace and welcome.
+
+A gathering of high-ranking dwarves from various clans, here to pay respects to the recently departed.
+
+You can also see a scroll here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1163">
+        <command xml:space="preserve">i</command>
+        <result xml:space="preserve">You are carrying nothing.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1164"></child>
+        </children>
+    </item>
+    <item nodeId="node-1164">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">
+Mausoleum
+A gleaming stone mausoleum carved with silver-flecked granite statues of noble dwarves, surrounded by sturdy yet elegant benches, playful fountains and pools catching the light from gem-like windows high overhead; all emanating a sense of peace and welcome.
+
+You can see a mourners and a scroll here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1104">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Long Hallway
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1105"></child>
+        </children>
+    </item>
+    <item nodeId="node-1105">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Thorin's Tomb
+Deep in the heart of the Lonely Mountain there was a tomb. Not a nasty, dirty wet tomb, filled with ooze and the ends of worms, nor yet a sterile, gloomy tomb with nothing to look at or admire; it was a dwarven tomb, and that means magnificence.
+
+It was a gleaming stone mausoleum carved with silver-flecked granite statues of noble dwarves, surrounded by sturdy yet elegant benches, playful fountains and pools catching the light from gem-like windows high overhead; all emanating a sense of peace and welcome.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1106"></child>
+        </children>
+    </item>
+    <item nodeId="node-1106">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1107"></child>
+        </children>
+    </item>
+    <item nodeId="node-1107">
+        <command xml:space="preserve">enter</command>
+        <result xml:space="preserve">You must supply a noun.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1108"></child>
+        </children>
+    </item>
+    <item nodeId="node-1108">
+        <command xml:space="preserve">enter Mausoleum</command>
+        <result xml:space="preserve">That's not something you can enter.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1109"></child>
+        </children>
+    </item>
+    <item nodeId="node-1109">
+        <command xml:space="preserve">inside</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1110">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1111"></child>
+        </children>
+    </item>
+    <item nodeId="node-1111">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1112"></child>
+        </children>
+    </item>
+    <item nodeId="node-1112">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1113"></child>
+        </children>
+    </item>
+    <item nodeId="node-1113">
+        <command xml:space="preserve">w</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1114"></child>
+        </children>
+    </item>
+    <item nodeId="node-1114">
+        <command xml:space="preserve">take lantern</command>
+        <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
+
+Great Hall of Thror
+This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and plished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1115">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1121"></child>
+            <child nodeId="node-1116"></child>
+        </children>
+    </item>
+    <item nodeId="node-1116">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1117"></child>
+        </children>
+    </item>
+    <item nodeId="node-1117">
+        <command xml:space="preserve">e</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1118"></child>
+        </children>
+    </item>
+    <item nodeId="node-1118">
+        <command xml:space="preserve">u</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1119"></child>
+        </children>
+    </item>
+    <item nodeId="node-1119">
+        <command xml:space="preserve">examine</command>
+        <result xml:space="preserve">(the lantern)
+You see nothing special about the lantern.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1120"></child>
+        </children>
+    </item>
+    <item nodeId="node-1120">
+        <command xml:space="preserve">take lantern</command>
+        <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
+
+Great Chamber of Thror
+This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and polished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain, as well as another pair of gilded doors to the south.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1121">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1122"></child>
+        </children>
+    </item>
+    <item nodeId="node-1122">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1123"></child>
+        </children>
+    </item>
+    <item nodeId="node-1123">
+        <command xml:space="preserve">take lantern</command>
+        <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
+
+Great Hall of Thror
+This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and plished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1124"></child>
+        </children>
+    </item>
+    <item nodeId="node-1124">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1125">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Thorin's Tomb
+
+
+It was a gleaming stone mausoleum carved with silver-flecked granite statues of noble dwarves, surrounded by sturdy yet elegant benches, playful fountains and pools catching the light from gem-like windows high overhead; all emanating a sense of peace and welcome.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1126">
+        <command xml:space="preserve">go down</command>
+        <result xml:space="preserve">
+Winding Stairs
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1127"></child>
+        </children>
+    </item>
+    <item nodeId="node-1127">
+        <command xml:space="preserve">go up</command>
+        <result xml:space="preserve">
+Great Hall of Thror
+High above, a small opening of some sort provides a glimmer of light and a faint breeze from outside. The walls of the great chamber are out of the light's reach, though. A few overturned tables and a broken lantern are all that can be seen.
+
+You can see a lantern here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1128"></child>
+        </children>
+    </item>
+    <item nodeId="node-1128">
+        <command xml:space="preserve">move down</command>
+        <result xml:space="preserve">You must name something more substantial.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1129"></child>
+        </children>
+    </item>
+    <item nodeId="node-1129">
+        <command xml:space="preserve">travel down</command>
+        <result xml:space="preserve">That's not a verb I recognise.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1130"></child>
+        </children>
+    </item>
+    <item nodeId="node-1130">
+        <command xml:space="preserve">s</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1131">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1145"></child>
+            <child nodeId="node-1141"></child>
+            <child nodeId="node-1132"></child>
+        </children>
+    </item>
+    <item nodeId="node-1132">
+        <command xml:space="preserve">take lantern</command>
+        <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
+
+Great Hall of Thror
+This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and plished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1133"></child>
+        </children>
+    </item>
+    <item nodeId="node-1133">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Winding Stairs
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1135"></child>
+            <child nodeId="node-1134"></child>
+        </children>
+    </item>
+    <item nodeId="node-1134">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Great Hall of Thror
+This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and plished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1135">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">
+Long Hallway
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1136"></child>
+        </children>
+    </item>
+    <item nodeId="node-1136">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Thorin's Tomb
+Deep in the heart of the Lonely Mountain there was a tomb. Not a nasty, dirty wet tomb, filled with ooze and the ends of worms, nor yet a sterile, gloomy tomb with nothing to look at or admire; it was a dwarven tomb, and that means magnificence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1137"></child>
+        </children>
+    </item>
+    <item nodeId="node-1137">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">
+Mausoleum
+It was a gleaming stone mausoleum carved with silver-flecked granite statues of noble dwarves, surrounded by sturdy yet elegant benches, playful fountains and pools catching the light from gem-like windows high overhead; all emanating a sense of peace and welcome.
+
+You can see a scroll here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1138"></child>
+        </children>
+    </item>
+    <item nodeId="node-1138">
+        <command xml:space="preserve">x scroll</command>
+        <result xml:space="preserve"> A rolled-up scroll. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1139"></child>
+        </children>
+    </item>
+    <item nodeId="node-1139">
+        <command xml:space="preserve">x scroll</command>
+        <result xml:space="preserve">An unrolled scroll with a mysterious inscription. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1140"></child>
+        </children>
+    </item>
+    <item nodeId="node-1140">
+        <command xml:space="preserve">take scroll</command>
+        <result xml:space="preserve">Taken.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1141">
+        <command xml:space="preserve">look</command>
+        <result xml:space="preserve">Great Hall of Thror
+High above, a small opening of some sort provides a glimmer of light and a faint breeze from outside. The walls of the great chamber are out of the light's reach, though. A few overturned tables and a broken lantern are all that can be seen.
+
+You can see a lantern here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1142"></child>
+        </children>
+    </item>
+    <item nodeId="node-1142">
+        <command xml:space="preserve">take lantern</command>
+        <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
+
+Great Hall of Thror
+This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and plished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1143"></child>
+        </children>
+    </item>
+    <item nodeId="node-1143">
+        <command xml:space="preserve">down</command>
+        <result xml:space="preserve">&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1144"></child>
+        </children>
+    </item>
+    <item nodeId="node-1144">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1145">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve">You can't go that way.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1148"></child>
+            <child nodeId="node-1146"></child>
+        </children>
+    </item>
+    <item nodeId="node-1146">
+        <command xml:space="preserve">take lantern</command>
+        <result xml:space="preserve">A young dwarf carrying a set of mason's tools hurries into the room, happens upon the broken lantern, and lights it. After looking around in wonder and respect at the newly-lit surroundings, he takes it back to the entrance he came from, and calls for his fellow workers to join him. You can now see the Great Hall in full.
+
+Great Hall of Thror
+This enormous chamber is filled with activity as dozens of dwarves work to restore it to its former glory. Dust and cobwebs are being cleared away, the conference tables repaired, hearths rekindled, and broken carvings either smoothed and plished again or replaced with new ones. Dwarves on high ladders are even re-opening the skylights, allowing more fresh air and sunlight to fill the room. In the new light, you see a pair of majestic doors leading east towards the sound of rushing water, as well as an archway with stairs leading deep down towards the heart of the Lonely Mountain.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1147"></child>
+        </children>
+    </item>
+    <item nodeId="node-1147">
+        <command xml:space="preserve">d</command>
+        <result xml:space="preserve"></result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+    <item nodeId="node-1148">
+        <command xml:space="preserve">n</command>
+        <result xml:space="preserve">
+Thorin's Tomb
+Deep in the heart of the Lonely Mountain there was a tomb. Not a nasty, dirty wet tomb, filled with ooze and the ends of worms, nor yet a sterile, gloomy tomb with nothing to look at or admire; it was a dwarven tomb, and that means magnificence.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1149"></child>
+        </children>
+    </item>
+    <item nodeId="node-1149">
+        <command xml:space="preserve">in</command>
+        <result xml:space="preserve">
+Mausoleum
+It was a gleaming stone mausoleum carved with silver-flecked granite statues of noble dwarves, surrounded by sturdy yet elegant benches, playful fountains and pools catching the light from gem-like windows high overhead; all emanating a sense of peace and welcome.
+
+You can see a scroll here.
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1150"></child>
+        </children>
+    </item>
+    <item nodeId="node-1150">
+        <command xml:space="preserve">x scroll</command>
+        <result xml:space="preserve"> A rolled-up scroll. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+        <children><child nodeId="node-1151"></child>
+        </children>
+    </item>
+    <item nodeId="node-1151">
+        <command xml:space="preserve">x scroll</command>
+        <result xml:space="preserve">An unrolled scroll with a mysterious inscription. 
+
+&gt;</result>
+        <commentary xml:space="preserve"></commentary>
+    </item>
+</Skein>
